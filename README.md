@@ -13,3 +13,4 @@ En el codigo hay que rellenar unas credenciales del correo que va a enviar los m
 ## Requisitos
 
  Necesitas instalar `pip install instagrapi` y `pip install plyer`
+ Y tener una cuenta con contraseña de aplicacion (Tutorial: https://www.youtube.com/watch?v=AI9KnHI4aKA)
