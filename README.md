@@ -12,4 +12,4 @@ En el codigo hay que rellenar unas credenciales del correo que va a enviar los m
 
 ## Requisitos
 
- Necesitas instalar 'pip install instagrapi' y 'pip install plyer'
+ Necesitas instalar `pip install instagrapi` y `pip install plyer`
